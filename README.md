@@ -33,7 +33,7 @@ $('#test').ScrollSvg({
 ## options
 
 Option | Type | Default | Description
------- | -------- | -----------
+------ | ---- | ------- | -----------
 startSlack | int | 100 | svgイメージが画面に表示されて何ピクセルで表示しはじめさせるかの数値。
 fill | string | none | 塗りつぶしの色
 stroke | string | #930 | 線の色
