@@ -40,7 +40,7 @@ stroke | string | #930 | 線の色
 strokeWidth | string | 3 | 線の幅
 transitionProperty | string | all | css設定
 transitionDuration | string | 5s | css設定
-transitionTimingFunction string | ease | css設定
+transitionTimingFunction | string | ease | css設定
 transitionDelay |  string | 0s | css設定
 
 
