@@ -1,4 +1,4 @@
 # svg scroll
 
-[Live demo](http://akifo.github.io/scroll-svg/)
+[Live demo](http://akifo.github.io/jquery.scroll.svg.js/)
 
